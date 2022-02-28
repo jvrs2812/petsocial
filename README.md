@@ -15,3 +15,5 @@
    <p>12. Conversar sobre os dados que terao o cadastro de Usuario</p>
    <p>13. Discutir se o layout das telas mudaria de OS para OS </p>
    <p>14. Caso seja pensado em usar micro-servicos, quais tipos de Bancos de filas a utilizar exemplo: Redis</p>
+   <p>15. Caso entre um Design no projeto, pensar nas possiveis telas e cores padroes do sistema (Caso nao, nos ferramos kkkk)</p>
+   <p>16. Qual gerenciador de estado usar no Flutter </p>
