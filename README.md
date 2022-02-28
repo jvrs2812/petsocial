@@ -1,6 +1,6 @@
 # Petsocial
 
-##**Topicos a serem abordados**
+**Topicos a serem abordados**
    <p>1. Se sera um monolito ou nao </p>
    <p>2. Qual servico de autenticacao sera usado, ou se nao ira usar autenticacao de terceiros </p>
    <p>3. Qual banco de dados usar</p>
