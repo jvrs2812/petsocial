@@ -14,3 +14,4 @@
    <p>11. Tipos de autenticacao (JWT seria o principal escolhido)</p>
    <p>12. Conversar sobre os dados que terao o cadastro de Usuario</p>
    <p>13. Discutir se o layout das telas mudaria de OS para OS </p>
+   <p>14. Caso seja pensado em usar micro-servicos, quais tipos de Bancos de filas a utilizar exemplo: Redis</p>
