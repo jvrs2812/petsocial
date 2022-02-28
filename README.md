@@ -13,3 +13,4 @@
    <p>10. Conversar sobre as primeiras telas a serem feitas </p>
    <p>11. Tipos de autenticacao (JWT seria o principal escolhido)</p>
    <p>12. Conversar sobre os dados que terao o cadastro de Usuario</p>
+   <p>13. Discutir se o layout das telas mudaria de OS para OS </p>
