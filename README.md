@@ -14,6 +14,7 @@
    <p>6. Pipeline de entrega continua</p>
    <p>6.1 Vai usar heorku</p>
    <p>7. Criar um ambiente de homologacao antes de subir para producao </p>
+   <p>7.1 Vai ter ambiente misto </p>
    <p>8. Projeto de dockerizacao qual seria a melhor forma de implementar e quais sistemas rodariam nele</p>
    <p>9. Qual liguagem usar no back-end(caso seja estrutura de micro-servicos quais as liguagens)</p>
    <p>10. Conversar sobre as primeiras telas a serem feitas </p>
