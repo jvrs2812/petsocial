@@ -8,6 +8,7 @@
    <p>3. Qual banco de dados usar</p>
    <p>3.1 MySql</p>
    <p>4. Plataforma que sera hospedada (Como servico ou em VPS)</p>
+   <p>4.1 Como servico (Heroku)</p>
    <p>5. Padrao de arquitetura do projeto tanto da API quanto do aplicativo</p>
    <p>6. Pipeline de entrega continua</p>
    <p>7. Criar um ambiente de homologacao antes de subir para producao </p>
