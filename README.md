@@ -20,8 +20,8 @@
    <p>9. Qual liguagem usar no back-end(caso seja estrutura de micro-servicos quais as liguagens)</p>
    <p>9.1 DotNet(C#) para a API e outros servicos seram pensados futuramente </p>
    <p>10. Conversar sobre as primeiras telas a serem feitas </p>
-   <p>10.1 JWT </p>
    <p>11. Tipos de autenticacao (JWT seria o principal escolhido)</p>
+   <p>11.1 JWT </p>
    <p>12. Conversar sobre os dados que terao o cadastro de Usuario</p>
    <p>13. Discutir se o layout das telas mudaria de OS para OS </p>
    <p>14. Caso seja pensado em usar micro-servicos, quais tipos de Bancos de filas a utilizar exemplo: Redis</p>
