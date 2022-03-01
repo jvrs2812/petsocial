@@ -18,6 +18,7 @@
    <p>8. Projeto de dockerizacao qual seria a melhor forma de implementar e quais sistemas rodariam nele</p>
    <p>8.1 aprovado </p>
    <p>9. Qual liguagem usar no back-end(caso seja estrutura de micro-servicos quais as liguagens)</p>
+   <p>9.1 DotNet(C#) para a API e outros servicos seram pensados futuramente </p>
    <p>10. Conversar sobre as primeiras telas a serem feitas </p>
    <p>11. Tipos de autenticacao (JWT seria o principal escolhido)</p>
    <p>12. Conversar sobre os dados que terao o cadastro de Usuario</p>
